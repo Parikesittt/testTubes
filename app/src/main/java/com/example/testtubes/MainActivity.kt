@@ -14,6 +14,7 @@ import com.example.testtubes.ui.theme.TestTubesTheme
 import com.example.testtubes.androidlarge1.AndroidLarge1
 import com.example.testtubes.androidlarge2.AndroidLarge2
 import com.example.testtubes.androidlarge3.AndroidLarge3
+import com.example.testtubes.androidlarge4.AndroidLarge4
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -25,7 +26,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    AndroidLarge2()
+                    AndroidLarge4()
                 }
             }
         }
@@ -44,6 +45,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     TestTubesTheme {
-        AndroidLarge2()
+        AndroidLarge4()
     }
 }
