@@ -1,0 +1,180 @@
+{
+  "name": "android_large_1",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "kfewPENPFDFGJkKclykkbF",
+    "node": "143:646",
+    "version": "5865251808",
+    "component-id": "127924fd35c244ce71a625756c336b28f5f94b8b"
+  },
+  "default": "Android Large - 1",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "fa6-solid:map-location-dot"
+      },
+      {
+        "type": "text",
+        "id": "Bandung Wow"
+      },
+      {
+        "type": "text",
+        "id": "Temukan Wisata Terbaik Anda"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      }
+    ],
+    "modes": {
+      "Android Large - 1": {
+        "rules": [
+          {
+            "id": "top_level",
+            "border-radius": 8.0,
+            "is-structured": false,
+            "children": [
+              "fa6-solid:map-location-dot",
+              "Bandung Wow",
+              "Temukan Wisata Terbaik Anda"
+            ]
+          },
+          {
+            "id": "fa6-solid:map-location-dot",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -0.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 291.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 63.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 51.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector"
+            ]
+          },
+          {
+            "id": "Bandung Wow",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -0.5
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -12.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 417.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 55.0
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Bandung Wow",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 40.0,
+            "line-height": 1.3829999923706056,
+            "typeface": "Oleo Script Swash Caps"
+          },
+          {
+            "id": "Temukan Wisata Terbaik Anda",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 19.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 415.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 320.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 36.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 50.588235294117645,
+              "saturation": 1.0,
+              "value": 1.0
+            },
+            "text-content": "Temukan Wisata Terbaik Anda",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 20.0,
+            "line-height": 1.36181640625,
+            "typeface": "Open Sans"
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "bottom": 0.7532119750976562
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Android Large - 1",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

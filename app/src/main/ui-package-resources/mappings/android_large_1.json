@@ -1,0 +1,6 @@
+{
+    "target": "AndroidLarge1",
+    "package": "com.example.testtubes.androidlarge1",
+    "generateImplementation": true,
+    "generatePreviews": true
+}

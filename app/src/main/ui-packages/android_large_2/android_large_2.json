@@ -1,0 +1,615 @@
+{
+  "name": "android_large_2",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "kfewPENPFDFGJkKclykkbF",
+    "node": "151:75",
+    "version": "5865251808",
+    "component-id": "eba90c7624fef9adb71bb7a03cd516d1d826e2f6"
+  },
+  "default": "Android Large - 2",
+  "documentation": "intro ",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "Sudah memiliki akun? Masuk"
+      },
+      {
+        "type": "group",
+        "id": "Button Mulai Menjelajah"
+      },
+      {
+        "type": "group",
+        "id": "Kata - Kata"
+      },
+      {
+        "type": "group",
+        "id": "Foto Tampilan Awal"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 1"
+      },
+      {
+        "type": "text",
+        "id": "Mulai Menjelajah"
+      },
+      {
+        "type": "group",
+        "id": "fluent:arrow-up-12-filled"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "text",
+        "id": "Pintu menuju pengalaman wisata yang tak terlupakan. Temukan kenyamanan, keindahan, dan petualangan di Bandung."
+      },
+      {
+        "type": "text",
+        "id": "Mulailah Petualangan Anda di Bandung"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 1"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 4"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 2"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 6"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 3"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 5"
+      }
+    ],
+    "modes": {
+      "Android Large - 2": {
+        "rules": [
+          {
+            "id": "top_level",
+            "border-radius": 8.0,
+            "is-structured": false,
+            "children": [
+              "Sudah memiliki akun? Masuk",
+              "Button Mulai Menjelajah",
+              "Kata - Kata",
+              "Foto Tampilan Awal"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 206.6666666666668,
+              "saturation": 0.03543307086614172,
+              "value": 0.996078431372549
+            }
+          },
+          {
+            "id": "Sudah memiliki akun? Masuk",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 26.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 674.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 318.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 0.6,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.0
+            },
+            "annotated-text-content": {
+              "text": "Sudah memiliki akun? Masuk",
+              "annotated-text-span-list": [
+                {
+                  "span-start": 0,
+                  "span-length": 21,
+                  "annotated-text-style": {
+                    "font-weight": 500.0,
+                    "typeface": "Roboto",
+                    "color": {
+                      "alpha": 0.6,
+                      "hue": 0.0,
+                      "saturation": 0.0,
+                      "value": 0.0
+                    }
+                  }
+                },
+                {
+                  "span-start": 21,
+                  "span-length": 5,
+                  "annotated-text-style": {
+                    "font-weight": 500.0,
+                    "underline": true,
+                    "typeface": "Roboto",
+                    "color": {
+                      "alpha": 1.0,
+                      "hue": 208.76033057851237,
+                      "saturation": 1.0,
+                      "value": 0.9490196078431372
+                    }
+                  }
+                }
+              ]
+            },
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 15.0,
+            "line-height": 1.171875
+          },
+          {
+            "id": "Button Mulai Menjelajah",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 22.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 600.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 318.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 47.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 1",
+              "Mulai Menjelajah",
+              "fluent:arrow-up-12-filled"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Kata - Kata",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 16.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 453.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 323.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 130.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Pintu menuju pengalaman wisata yang tak terlupakan. Temukan kenyamanan, keindahan, dan petualangan di Bandung.",
+              "Mulailah Petualangan Anda di Bandung"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Foto Tampilan Awal",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -18.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": -17.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 404.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 395.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Ellipse 1",
+              "Ellipse 4",
+              "Ellipse 2",
+              "Ellipse 6",
+              "Ellipse 3",
+              "Ellipse 5"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Rectangle 1",
+            "border-radius": 15.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 318.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 47.0
+              }
+            },
+            "vector-content": "rectangle_1.svg"
+          },
+          {
+            "id": "Mulai Menjelajah",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -4.5
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 11.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 167.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 36.0
+              }
+            },
+            "font-weight": 600.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Mulai Menjelajah",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 18.0,
+            "line-height": 1.36181640625,
+            "typeface": "Open Sans"
+          },
+          {
+            "id": "fluent:arrow-up-12-filled",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 249.48223377278237
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 14.75224188806601
+              }
+            },
+            "relative-transform": [
+              [
+                0.6584468483924866,
+                -0.7790425419807434,
+                0.0
+              ],
+              [
+                0.7526271939277649,
+                0.6269709467887878,
+                0.0
+              ]
+            ],
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 21.79545021057129
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.495515823364258
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector"
+            ]
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": 4.17057394783825,
+              "top": 3.9169921875
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 4.435821032799879
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 3.65252685546875
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Pintu menuju pengalaman wisata yang tak terlupakan. Temukan kenyamanan, keindahan, dan petualangan di Bandung.",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 5.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 70.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 318.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 60.0
+              }
+            },
+            "font-weight": 500.0,
+            "color": {
+              "alpha": 0.807843137254902,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.0
+            },
+            "text-content": "Pintu menuju pengalaman wisata yang tak terlupakan. Temukan kenyamanan, keindahan, dan petualangan di Bandung.",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 15.0,
+            "line-height": 1.3639999389648438,
+            "typeface": "Nunito"
+          },
+          {
+            "id": "Mulailah Petualangan Anda di Bandung",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -1.5
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -43.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 320.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 43.0
+              }
+            },
+            "font-weight": 700.0,
+            "color": {
+              "alpha": 1.0,
+              "hue": 208.76033057851237,
+              "saturation": 1.0,
+              "value": 0.9490196078431372
+            },
+            "text-content": "Mulailah Petualangan Anda di Bandung",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 24.0,
+            "line-height": 1.3640000025431318,
+            "typeface": "Nunito"
+          },
+          {
+            "id": "Ellipse 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 65.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 80.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 283.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 315.0
+              }
+            },
+            "vector-content": "ellipse_1.svg"
+          },
+          {
+            "id": "Ellipse 4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 65.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 80.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 276.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 315.0
+              }
+            },
+            "vector-content": "ellipse_4.svg"
+          },
+          {
+            "id": "Ellipse 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 283.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 17.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 104.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 116.0
+              }
+            },
+            "vector-content": "ellipse_2.svg"
+          },
+          {
+            "id": "Ellipse 6",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 287.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 17.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 117.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 118.0
+              }
+            },
+            "vector-content": "ellipse_6.svg"
+          },
+          {
+            "id": "Ellipse 3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 18.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 27.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 104.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 107.0
+              }
+            },
+            "vector-content": "ellipse_3.svg"
+          },
+          {
+            "id": "Ellipse 5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 18.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 21.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 117.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 109.0
+              }
+            },
+            "vector-content": "ellipse_5.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Android Large - 2",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
